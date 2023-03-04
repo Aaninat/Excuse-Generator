@@ -2,7 +2,7 @@
 import "bootstrap";
 import "./style.css";
 
-function excusa(who, action, what, when) {
+function excusa() {
   let who = ["the dog", "my granma", "his turtle", "my bird"];
   let action = ["ate", "peed", "crushed", "broke"];
   let what = ["eat", "pissed", "crushed", "broked"];
